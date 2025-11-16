@@ -4,7 +4,7 @@ Download from Printables here: [`Download Link`]()
 
 ### Summary
 
-Watch strap/band that is printed with TPU. 
+Watch strap/band that is printed with TPU.
 
 ## Print Settings
 
