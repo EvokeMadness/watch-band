@@ -53,7 +53,7 @@ Hi! Thanks for checking out my model! This watch band is an improvement on one o
 
 * * *
 
-## Previews
+# Previews
 
 ![](assets/preview.png)
 
