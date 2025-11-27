@@ -49,7 +49,7 @@ Watch strap/band that is printed with TPU.
 
 # A Note from the Designer
 
-Hi! Thanks for checking out my model! This watch band is an improvement on one of my first 3D models and prints. I hope to make further strap designs available in the future. If you've printed and assembled this design, I'd love to see it. As always, if you have any issues with the original model, please let me know, and you can even open an issue on this model's [`GitHub`](https://github.com/EvokeMadness/watch-band) page.
+Hi! Thanks for checking out my model! This watch band is an improvement on one of my first 3D models and prints. I hope to make further strap designs available in the future. If you've printed and assembled this design, I'd love to see it. As always, if you have any issues with the original model, please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/watch-band) page.
 
 * * *
 
