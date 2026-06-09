@@ -3,11 +3,11 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1388471-3d-printable-watch-band)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7201887)
 
-## Summary
-
-Watch strap/band that is printed with TPU.
-
 * * *
+
+# Summary
+
+### Watch strap/band that is printed with TPU.
 
 # Print Settings
 
